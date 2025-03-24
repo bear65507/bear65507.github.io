@@ -13,7 +13,7 @@
 
 Junior Backend Engineer @ Chat Server Team
 
-# **보유 역량 요약**
+# **◆ 보유 역량 요약**
 
 ## **Backend Engineering**
 
@@ -33,7 +33,7 @@ Junior Backend Engineer @ Chat Server Team
 
 * Java와 UML에서 리버스 엔지니어링 경험
 
-# **Careers** 
+# **◆ Careers** 
 
 
 # **(1) AA소프트 / Junior Backend Engineer**
@@ -67,7 +67,7 @@ Junior Backend Engineer @ Chat Server Team
 * Tensorflow, OpenCV등을 활용한 머신러닝 기반 비전 알고리즘 논문재현 및 제품 탑재 (CAM, Attention 등)   
 * 코드레벨 최적화 및 리펙토링 다수 수행 
 
-# **Experiences**
+# **◆ Experiences**
 
 
 # **Open-source Contribution**
@@ -97,7 +97,7 @@ URL을 특정 문자열로 단축하여 제공하는 URL Shortener 프로젝트
 
 # 
 
-# **Education**
+# **◆ Education**
 
 
 # **XX대학교 / 컴퓨터공학과 석사 (20xx.02 \~ 20xx.03)**
@@ -108,7 +108,7 @@ URL을 특정 문자열로 단축하여 제공하는 URL Shortener 프로젝트
 
 # **동아대학교 / 컴퓨터공학과 학사 (2022.03 \~ 2028.02)**
 
-#  **ETC**
+#  **◆ ETC**
 
 
 # **입상이력**
