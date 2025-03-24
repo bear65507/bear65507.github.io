@@ -1,4 +1,5 @@
 # bear65507.github.io
+! 본 이력서는 코딩몬스터 표준이력서 템플릿을 기반으로 한 가상의 이력서입니다.
 
 # **TaeWoo Lee, Software Engineer**
 
