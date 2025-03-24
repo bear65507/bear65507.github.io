@@ -69,7 +69,6 @@ Junior Backend Engineer @ Chat Server Team
 
 # **Experiences**
 
-# ---
 
 # **Open-source Contribution**
 
