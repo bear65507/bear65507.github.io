@@ -1,5 +1,5 @@
 # bear65507.github.io
-! 본 이력서는 코딩몬스터 표준이력서 템플릿을 기반으로 한 가상의 이력서입니다.
+!! 본 이력서는 코딩몬스터 표준이력서 템플릿을 기반으로 한 가상의 이력서입니다.
 
 # **TaeWoo Lee, Software Engineer**
 
@@ -35,9 +35,8 @@ Junior Backend Engineer @ Chat Server Team
 
 # **Careers** 
 
-# ---
 
-# **AA소프트 / Junior Backend Engineer**
+# **(1) AA소프트 / Junior Backend Engineer**
 
 ## **파일럿 프로젝트 진행 (3주간 진행)**
 
@@ -60,7 +59,7 @@ Junior Backend Engineer @ Chat Server Team
   1시간 이내에 변환했던 문장들을 캐싱하여 수정된 부분만 음성을 생성한 후 응답하도록 개선
 
 
-# **BB텔레콤 / Junior Software Engineer** 
+# **(2) BB텔레콤 / Junior Software Engineer** 
 
 ## **딥러닝 기반의 인공지능 물체탐색 솔루션 개발**
 
@@ -84,7 +83,6 @@ URL을 특정 문자열로 단축하여 제공하는 URL Shortener 프로젝트
 
 * Base62 Encoder와 XOR Cipher를 사용하여 Short URL을 생성  
 * Redis를 통해 Short URL과 Target URL을 매핑하여 캐싱하고 클라이언트에게 값을 반환하는 방식  
-* TestContainers를 이용하여 실제 운영 환경과 최대한 유사하게 통합 테스트를 구성 [**(공부하며 정리한 글)**](#)  
 * Docker, TestContainers, Redis 등을 활용 방법 학습
 
 
@@ -102,9 +100,8 @@ URL을 특정 문자열로 단축하여 제공하는 URL Shortener 프로젝트
 
 # **Education**
 
----
 
-# **동아대학교 / 컴퓨터공학과 석사 (20xx.02 \~ 20xx.03)**
+# **XX대학교 / 컴퓨터공학과 석사 (20xx.02 \~ 20xx.03)**
 
 * 연구 분야 : 딥러닝 모델 구조 경량화  (지도교수 : 김XX)  
 * GPA : 4.3/4.5 (차석 졸업)
@@ -114,7 +111,6 @@ URL을 특정 문자열로 단축하여 제공하는 URL Shortener 프로젝트
 
 #  **ETC**
 
-# ---
 
 # **입상이력**
 
